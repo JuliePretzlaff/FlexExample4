@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FlexExample4", "FlexExample
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60279"
+		SlnRelativePath = "FlexExample4\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject

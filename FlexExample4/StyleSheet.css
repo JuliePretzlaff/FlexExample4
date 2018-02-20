@@ -1,0 +1,28 @@
+﻿body{
+    display:flex;
+    flex-direction: column;
+}
+header,
+footer {
+    background-color: aquamarine;
+    width: 1000px;
+}
+main{
+    width: 1000px;
+    display:flex;
+}
+nav,
+aside {
+    background-color: cornflowerblue;
+    width: 100px;
+}
+article {
+    background-color: lightgray;
+    flex: 1;
+}
+nav{
+    order: -1;
+}
+img{
+    height: 400px;
+}
